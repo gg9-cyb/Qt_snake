@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>picture/clicked.wav</file>
+        <file>picture/eatfood.wav</file>
+        <file>picture/game_hall.jpg</file>
+        <file>picture/gameover.wav</file>
+        <file>picture/Trepak.wav</file>
+        <file>picture/icon.png</file>
+        <file>picture/game_select .jpg</file>
+        <file>picture/back.jpg</file>
+        <file>picture/backRed.png</file>
+        <file>picture/preview.png</file>
+        <file>picture/preview.jpg</file>
+        <file>picture/Bd.png</file>
+        <file>picture/down.png</file>
+        <file>picture/left.png</file>
+        <file>picture/right.png</file>
+        <file>picture/up.png</file>
+        <file>picture/food.png</file>
+        <file>picture/score.txt</file>
+    </qresource>
+</RCC>
